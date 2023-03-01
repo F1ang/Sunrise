@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/back.png</file>
+        <file>icons/back_press.png</file>
+        <file>icons/pan.png</file>
+        <file>icons/pan_pressed.png</file>
+    </qresource>
+</RCC>

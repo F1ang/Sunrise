@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>icons/btn_pause_1.png</file>
+        <file>icons/btn_pause_2.png</file>
+        <file>icons/btn_play_1.png</file>
+        <file>icons/btn_play_2.png</file>
+    </qresource>
+</RCC>

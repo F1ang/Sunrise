@@ -1,0 +1,4 @@
+QPushButton#pushButton_2 { border-image: url(:/icons/btn_play_1.png)}
+QPushButton#pushButton_2:hover { border-image: url(:/icons/btn_play_2.png)}
+QPushButton#pushButton_2:checked { border-image: url(:/icons/btn_pause_1.png)}
+QPushButton#pushButton_2:checked:hover { border-image: url(:/icons/btn_pause_2.png)}
