@@ -1,6 +1,0 @@
-QRadioButton::indicator:unchecked { image: url(:/icons/radioButton_unchecked.png) }
-QRadioButton::indicator:checked { image: url(:/icons/radioButton_checked.png) }
-QRadioButton { font-size: 30px; color: #99404040; background-color: #aadddddd}
-QPushButton { background-color: #404040; font-size: 30px; border-radius: 10px }
-QPushButton::checked { background-color: green; color: white }
-

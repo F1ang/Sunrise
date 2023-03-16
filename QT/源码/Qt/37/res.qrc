@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>icons/pulldown.png</file>
-        <file>icons/login.png</file>
-    </qresource>
-</RCC>

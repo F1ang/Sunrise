@@ -1,3 +1,0 @@
-QWidget { background-color: blue}
-QLabel { background-color: red}
-QLabel#label2 { background-color: green}
